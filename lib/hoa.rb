@@ -10,6 +10,6 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   BASE_HOA 
    [:chipmunks] [3] = "Dave"
-   [:third_earthers] [3] = "Snarfs" 
+   [:third_earthers] [3] = "Snarf" 
    [:jetsons][4] = "Astro"
 end
